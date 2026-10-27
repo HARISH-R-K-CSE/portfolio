@@ -130,7 +130,7 @@ export const portfolioData = {
         "Architected a high-throughput FastAPI inference microservice seamlessly coupled with an interactive React frontend dashboard for live queries."
       ],
       techStack: ["Python", "Random Forest", "ANN / MLP", "Scikit-learn", "FastAPI", "React.js", "Pandas"],
-      github: "https://github.com/harishrk/weather-prediction-ann-rf",
+      github: "https://github.com/HARISH-R-K-CSE/Weather-prediction-using-Ann-and-Random-Forest",
       liveDemo: null,
       terminalIcon: "🌦️"
     },
