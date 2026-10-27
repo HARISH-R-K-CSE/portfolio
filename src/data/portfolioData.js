@@ -26,7 +26,7 @@ export const portfolioData = {
       academic: "harishrk.cse2025@citchennai.net"
     },
     socials: {
-      github: "https://github.com/harishrk",
+      github: "https://github.com/HARISH-R-K-CSE",
       linkedin: "https://www.linkedin.com/in/harish-r-k-cse-33ab64381",
       leetcode: "https://leetcode.com/u/harish_rk",
       orcid: "https://orcid.org/",
