@@ -27,7 +27,7 @@ export const portfolioData = {
     },
     socials: {
       github: "https://github.com/harishrk",
-      linkedin: "https://linkedin.com/in/harish-rk",
+      linkedin: "https://www.linkedin.com/in/harish-r-k-cse-33ab64381",
       leetcode: "https://leetcode.com/u/harish_rk",
       orcid: "https://orcid.org/",
       skillrack: "https://skillrack.com/profile/harishrk"
